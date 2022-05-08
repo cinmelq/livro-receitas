@@ -1,5 +1,7 @@
 ### **Bolo de Banana** 🍌
 
+![Bolo de Banana](./Imagens/bolo-de-banana.jpg)
+
 **Ingredientes**
 
 - 4 ovos
